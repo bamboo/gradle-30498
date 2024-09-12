@@ -1,0 +1,8 @@
+pluginManagement {
+    includeBuild("../develocity")
+    includeBuild("../commons")
+}
+plugins {
+    id("commons")
+    id("develocity")
+}

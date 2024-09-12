@@ -1,0 +1,9 @@
+ pluginManagement {
+     includeBuild("build-logic/develocity")
+     includeBuild("build-logic/settings")
+ }
+
+ plugins {
+     id("develocity")
+     id("java-settings")
+ }

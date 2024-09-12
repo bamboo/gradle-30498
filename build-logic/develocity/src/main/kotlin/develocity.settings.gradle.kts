@@ -1,0 +1,1 @@
+plugins { com.gradle.develocity }
